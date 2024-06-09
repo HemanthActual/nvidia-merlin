@@ -1,0 +1,1 @@
+{"feature": [{"name": "output_1", "valueCount": {"min": "64", "max": "64"}, "type": "FLOAT", "annotation": {"extraMetadata": [{"_dims": [[0.0, null], 64.0], "is_list": true, "is_ragged": false, "dtype_item_size": 32.0}]}}]}
