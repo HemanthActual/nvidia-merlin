@@ -1,2 +1,3 @@
 # nvidia-merlin
-Merlin
+
+Merlin Two Tower Example
